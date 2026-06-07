@@ -5,7 +5,7 @@ I like building things that make life easier, exploring new technologies and sha
 
 - 🤓 I'm interested in coding and mathematics.
 - 🏫 I'm currently studied Computer Engineering at the Trimex Colleges.
-- 💻 I'm currently working on some projects in software and hardware.
+- 💻 I'm currently working on some projects in software, hardware, network, robotics.
 - ⚡ Fun fact: I also love bubble tea🧋.
 
 🌟Thanks for visiting my profile!
