@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hannah.
+# Hi!👋, I'm Hannah.
 
 # About Me
 I like building things that make life easier, exploring new technologies and sharing knowledge.
